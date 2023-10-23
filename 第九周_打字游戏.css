@@ -1,0 +1,9 @@
+.highlight {
+	background-color: lightgreen;  
+}
+
+  .error {
+	background-color: lightcoral;
+	border: red;
+  }
+
